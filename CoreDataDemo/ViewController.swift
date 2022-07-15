@@ -128,11 +128,11 @@ class ViewController: UIViewController {
     
     
     func updateTabeInDataBase(){
-        
+        print("Still in progress")
     }
     
     func deleteDataFromDataBase(){
-        
+        print("Still in progress")
     }
     
 }
